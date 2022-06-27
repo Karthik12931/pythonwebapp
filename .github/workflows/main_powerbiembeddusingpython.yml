@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'powerbiembeddusingpython'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_FBE625FCA6174863AD6DD850A9C68E9C }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_FB09257BED0442FFA40334FCB391020C }}
