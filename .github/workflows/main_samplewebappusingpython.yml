@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'samplewebappusingpython'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_BF0898EAFA3B49B5B569D6C9D018F6E1 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8EB0EEB9FC6C418B948EF55D6793E8B9 }}
